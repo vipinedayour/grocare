@@ -1,16 +1,22 @@
-# grocare
+# Gro Care
+This is a youtube shorts clone app made using flutter
 
-A new Flutter project.
+![gro care](https://github.com/vipinedayour/grocare/assets/86926597/b2fb8d42-36ed-4675-af15-a12f5fd2d1ab)
 
-## Getting Started
+## Link to Demo
+https://drive.google.com/file/d/1n45Yiutkwq13b6nxyIJzlS1CJIxxc0nl/view?usp=sharing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1) Make sure flutter and git is installed.
+2) Clone or dowload this repository
+```
+git clone https://github.com/vipinedayour/grocare.git
+```
+3) Get packages
+```
+flutter pub get
+```
+## Packages Used
+-getx    
+-http    
+-video_player
